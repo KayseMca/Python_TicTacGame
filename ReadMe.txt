@@ -1,6 +1,6 @@
-This is Pyhton TicTac game 
+#This is Pyhton TicTac game 
 
-Requirements:
+##Requirements:
 
 * Jupyter
 * Python 3
