@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-* Jupyter
+* Jupyter Notebook
 * Python 3
 
 and have Fun!
